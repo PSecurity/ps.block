@@ -27,7 +27,23 @@
 
 </div>
 
-### O objetivo do projeto é oferecer um painel local de privacidade e segurança para controlar sensores, reforçar políticas do Android e aplicar camadas de proteção contra uso indevido de câmera, microfone, localização e Bluetooth.
+## 🔐 Sobre o PSBlock
+
+O **PSBlock** é um aplicativo Android autoral da **PeekSecurity** criado para estudos, proteção defensiva e controle local de recursos sensíveis do dispositivo.
+
+A proposta do projeto é oferecer uma base aberta para entender, testar e evoluir mecanismos de proteção em Android, incluindo bloqueio de câmera, microfone, localização, Bluetooth, recursos administrativos do dispositivo e ações remotas controladas.
+
+O projeto foi desenvolvido com foco em:
+
+- aprendizado prático em segurança mobile;
+- controle defensivo de recursos sensíveis;
+- estudo de permissões avançadas no Android;
+- automação de respostas de segurança;
+- uso responsável em dispositivos próprios ou autorizados;
+- transparência por meio de código aberto.
+
+> O PSBlock não é uma ferramenta ofensiva.  
+> É um projeto educacional e defensivo voltado para pesquisa, proteção e desenvolvimento responsável.
 
 > Uso responsável: utilize o PSBlock somente em dispositivo próprio, laboratório, ambiente de estudo ou cenário com autorização explícita.
 
