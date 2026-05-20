@@ -47,6 +47,16 @@ O projeto foi desenvolvido com foco em:
 
 > Uso responsável: utilize o PSBlock somente em dispositivo próprio, laboratório, ambiente de estudo ou cenário com autorização explícita.
 
+## 📦 Download
+
+A versão pública mais recente do PSBlock está disponível na página de releases:
+
+[![Download PSBlock](https://img.shields.io/badge/Download-PSBlock%20v1.0.0-7c3aed?style=for-the-badge&logo=android&logoColor=white)](https://github.com/PSecurity/ps.block/releases/tag/v1.0.0)
+
+Baixe o APK apenas pela página oficial do projeto:
+
+https://github.com/PSecurity/ps.block/releases
+
 ---
 
 ## Índice
