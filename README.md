@@ -27,9 +27,7 @@
 
 </div>
 
----
-
-O objetivo do projeto é oferecer um painel local de privacidade e segurança para controlar sensores, reforçar políticas do Android e aplicar camadas de proteção contra uso indevido de câmera, microfone, localização e Bluetooth.
+### O objetivo do projeto é oferecer um painel local de privacidade e segurança para controlar sensores, reforçar políticas do Android e aplicar camadas de proteção contra uso indevido de câmera, microfone, localização e Bluetooth.
 
 > Uso responsável: utilize o PSBlock somente em dispositivo próprio, laboratório, ambiente de estudo ou cenário com autorização explícita.
 
