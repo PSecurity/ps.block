@@ -1,0 +1,37 @@
+# Android / Gradle generated files
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+
+# Android Studio
+.idea/
+.DS_Store
+
+# Generated intermediates
+**/intermediates/
+**/project_dex_archive/
+**/sub_project_dex_archive/
+**/dexBuilderDebug/
+**/tmp/kotlin-classes/
+**/generated/
+**/outputs/
+**/transforms/
+**/incremental/
+**/kotlin/
+
+# APK/AAB outputs
+*.apk
+*.aab
+*.ap_
+
+# Logs and temp
+*.log
+logs/
+tmp/
+temp/
+
+# Editor / OS
+Thumbs.db
+.vscode/

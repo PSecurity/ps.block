@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PeekSecurity / PS.Guardian retro-corporate palette -->
+    <color name="bg_primary">#FF07090D</color>
+    <color name="bg_secondary">#FF10141B</color>
+    <color name="bg_deep">#FF040609</color>
+    <color name="panel_bg">#F0121720</color>
+    <color name="panel_bg_alt">#FF151A23</color>
+    <color name="panel_hard">#FF1A202B</color>
+
+    <color name="purple_border">#FF7C3AED</color>
+    <color name="purple_border_soft">#4D7C3AED</color>
+    <color name="purple_border2">#FF9B6DFF</color>
+    <color name="purple_glow">#667C3AED</color>
+    <color name="purple_glow2">#FF6D43D8</color>
+    <color name="purple_accent">#FFB794F6</color>
+
+    <color name="green_accent">#FF22C55E</color>
+    <color name="green_soft">#3322C55E</color>
+    <color name="text_primary">#FFE5E7EB</color>
+    <color name="text_secondary">#FFCBD5E1</color>
+    <color name="text_dim">#FF94A3B8</color>
+    <color name="text_muted">#FF64748B</color>
+
+    <color name="status_green">#FF22C55E</color>
+    <color name="status_red">#FFFF6B7A</color>
+    <color name="status_yellow">#FFF59E0B</color>
+
+    <color name="surface_border">#FF2A3443</color>
+    <color name="surface_border_soft">#66374658</color>
+    <color name="warning_surface">#261C1302</color>
+    <color name="danger_surface">#2B2A0C13</color>
+    <color name="success_surface">#2610221A</color>
+
+    <color name="colorPrimary">#FF7C3AED</color>
+    <color name="colorPrimaryDark">#FF040609</color>
+    <color name="colorAccent">#FF7C3AED</color>
+    <color name="ic_launcher_background">#FF07090D</color>
+</resources>

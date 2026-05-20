@@ -1,0 +1,101 @@
+<resources>
+    <style name="Theme.PSBlock" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/bg_primary</item>
+        <item name="android:statusBarColor">@color/bg_deep</item>
+        <item name="android:navigationBarColor">@color/bg_deep</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="switchStyle">@style/PSwitch</item>
+        <item name="buttonStyle">@style/PButton</item>
+        <item name="android:colorControlActivated">@color/purple_border</item>
+        <item name="android:colorAccent">@color/purple_border</item>
+    </style>
+
+
+
+    <style name="Theme.PSBlock.Splash" parent="Theme.PSBlock">
+        <item name="android:windowBackground">@drawable/bg_splash_psblock</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowDisablePreview">false</item>
+        <item name="android:statusBarColor">#05030A</item>
+        <item name="android:navigationBarColor">#05030A</item>
+    </style>
+
+    <style name="PSwitch" parent="Widget.MaterialComponents.CompoundButton.Switch">
+        <item name="thumbTint">@color/ps_switch_thumb</item>
+        <item name="trackTint">@color/ps_switch_track</item>
+        <item name="android:minHeight">42dp</item>
+    </style>
+
+    <style name="PButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:minHeight">38dp</item>
+        <item name="android:paddingStart">12dp</item>
+        <item name="android:paddingEnd">12dp</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="backgroundTint">@color/panel_hard</item>
+        <item name="cornerRadius">2dp</item>
+        <item name="strokeColor">@color/surface_border</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="rippleColor">@color/purple_glow</item>
+    </style>
+
+    <style name="PButtonPrimary" parent="PButton">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="backgroundTint">@color/purple_glow2</item>
+        <item name="strokeColor">@color/purple_border2</item>
+    </style>
+
+    <style name="PButtonDanger" parent="PButton">
+        <item name="android:textColor">@color/status_red</item>
+        <item name="backgroundTint">@color/danger_surface</item>
+        <item name="strokeColor">@color/status_red</item>
+    </style>
+
+    <style name="PButtonUtility" parent="PButton">
+        <item name="android:textColor">@color/text_dim</item>
+        <item name="backgroundTint">@color/bg_secondary</item>
+        <item name="strokeColor">@color/surface_border_soft</item>
+    </style>
+
+    <!-- CategoryTitle: header clicável de seção accordion -->
+    <style name="CategoryTitle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:paddingStart">12dp</item>
+        <item name="android:paddingEnd">12dp</item>
+        <item name="android:background">@drawable/bg_product_section_focus</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+
+    <!-- CategoryPanel: corpo do accordion -->
+    <style name="CategoryPanel">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/bg_product_section</item>
+        <item name="android:paddingStart">12dp</item>
+        <item name="android:paddingEnd">12dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+    </style>
+</resources>
