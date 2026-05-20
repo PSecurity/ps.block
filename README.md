@@ -1,6 +1,33 @@
-# PSBlock
+<div align="center">
 
-**PSBlock** é um app Android de proteção local para dispositivos próprios ou ambientes autorizados, desenvolvido pela **PeekSecurity**.
+# 🛡️ PS.Block
+
+### by **Gilberto Martins** · `PeekSecurity`
+
+**Android Security Control • Camera Block • Mic Block • GPS Block • Bluetooth Block • Remote Actions**
+
+> Aplicativo Android autoral da PeekSecurity focado em controle defensivo, proteção local e resposta rápida para recursos sensíveis do dispositivo.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-PSecurity%2Fps.block-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PSecurity/ps.block)
+[![Portfolio](https://img.shields.io/badge/PORTFÓLIO-PeekSecurity-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white)](https://psecurity.github.io/PSecurity/)
+[![Android](https://img.shields.io/badge/ANDROID-Security_App-14532d?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Open Source](https://img.shields.io/badge/OPEN_SOURCE-Community_Project-1f2937?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#)
+
+<br>
+
+`Defensive control.`  
+`Local protection.`  
+`Built for the PeekSecurity community.`
+
+<br>
+
+**Camera • Microfone • Localização • Bluetooth • Device Admin • Watchdog • Ações remotas**
+
+</div>
+
+---
 
 O objetivo do projeto é oferecer um painel local de privacidade e segurança para controlar sensores, reforçar políticas do Android e aplicar camadas de proteção contra uso indevido de câmera, microfone, localização e Bluetooth.
 
