@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ PS.Block
+# 🛡️ PSBlock
 
 ### by **Gilberto Martins** · `PeekSecurity`
 
