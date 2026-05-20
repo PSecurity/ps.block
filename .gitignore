@@ -35,3 +35,13 @@ temp/
 # Editor / OS
 Thumbs.db
 .vscode/
+
+# Release artifacts
+app/release/
+dist/
+*.apk
+*.aab
+
+# Signing keys
+*.jks
+*.keystore
